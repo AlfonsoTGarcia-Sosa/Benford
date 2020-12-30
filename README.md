@@ -6,4 +6,4 @@
 
 # https://doi.org/10.4155/fmc-2019-0006
 
-Also available for download here as https://github.com/AlfonsoTGarcia-Sosa/Benford/blob/master/benfordsfmc.pdf
+# Also available for download here as https://github.com/AlfonsoTGarcia-Sosa/Benford/blob/master/benfordsfmc.pdf
